@@ -34,6 +34,7 @@ OOP Concepts
 Console Based User Interface
 
 🧪 Sample Output
+
 === Inventory Management System ===
 1. Add Product
 2. Update Product
