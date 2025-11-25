@@ -5,55 +5,33 @@ This console-based application helps manage stock items with operations like Add
 
 🚀 Features
 ✔ Add Stock
-
 Add new products with unique ID, name, price, and quantity.
 
 ✔ Update Stock
-
 Modify product quantity or price.
 
 ✔ View All Products
-
 Display a clean list of all available inventory items.
 
 ✔ Low Stock Alerts
-
 Automatically highlights products with quantity below the minimum threshold.
 
 ✔ Remove Product
-
 Delete any item from inventory.
 
 ✔ Uses Java 8 Features
-
 Streams
-
 Lambda Expressions
-
 Optional
-
 forEach()
 
 🛠️ Tech Stack
-
 Java (Core)
-
 HashMap
-
 ArrayList
-
 Java 8 Streams
-
 OOP Concepts
-
 Console Based User Interface
-
-📁 Project Structure
-src/
- └── in/rudresh/inventory
-      ├── InventoryApp.java
-      ├── Product.java
-      └── InventoryService.java
 
 🧪 Sample Output
 === Inventory Management System ===
